@@ -14,6 +14,24 @@ nav a {
 .head {
   background-image: url(../images/the-flatiron-building.png);
 }
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+}
+h3 {
+  font-size: 23px;
+  font-weight: bold;
+}
+p {
+  font-size: 14px;
+}
 h4 {
   color: white;
+  font-size: 23px;
+  font-weight: bold;
+}
+.footer {
+  font-size: 11px;
+  color: white;
+  background-color: dimgray;
 }

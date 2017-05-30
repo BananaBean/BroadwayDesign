@@ -7,10 +7,13 @@ h1 {
   font-weight: bold;
   color: white;
 }
-nav p {
+nav a {
   font-size: 18px;
   color: white;
 }
 .head {
-  background-image: url(../images/the-flatiron-building.png)
+  background-image: url(../images/the-flatiron-building.png);
+}
+h4 {
+  color: white;
 }
